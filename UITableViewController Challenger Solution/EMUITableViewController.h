@@ -1,5 +1,5 @@
 //
-//  EMViewController.h
+//  EMUITableViewController.h
 //  UITableViewController Challenger Solution
 //
 //  Created by Eduardo Mollo on 5/28/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface EMViewController : UIViewController
+@interface EMUITableViewController : UITableViewController
 
 @end
